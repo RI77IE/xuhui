@@ -1,2 +1,2 @@
-# xuhui
+# xuhui.github.io
 Personal website.
